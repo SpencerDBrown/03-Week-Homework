@@ -7,4 +7,4 @@ This assignment did teach me a lot in terms of how to impliment if / else statem
 
 Im proud of this assignment because it's personally a big step for me to be able to from scratch build something thats functional to the criteria. Especially within the framework of working with someone else's HTML / pre-defined classes/ID's! Makes me excited for whats to come!
 
-link: https://spencerdbrown
+link: https://spencerdbrown.github.io/03-week-homework/
