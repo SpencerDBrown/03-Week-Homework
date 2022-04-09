@@ -1,1 +1,10 @@
 # 03-week-homework
+
+For this weeks homework I found it quite challenging but in a very fun and enjoyable way.
+I attempted and rewrote my code 5 times, starting from scratch each time realizing there was a better/ more efficient way of achieving what the acceptance criteria was asking for. Interestingly enough a lot of the pitfalls I expereienced were incredibly minor errors with syntax. In terms of the actual functionallity of JS I fully understood what needed to be done, and roughly how to get there starting with nothing. Once I started to define certain variables and get a rough framework, the rest was relatively easy to impliment at least in theory. The one major hiccup I was running into was, there weren't any bugs in the console but it wasn't printing my password. The function was working as intended as I went through rigourously with breakpoints to figure out what was going on. All to find out all I needed to do was change a 'const' to a 'let' a silly minor oversite by me, but once I fixed it everything worked wonderfully.
+
+This assignment did teach me a lot in terms of how to impliment if / else statements in a more functional and logical way as well. Same with the for loop too. My initial draft of the code was extensive and way too cluttered with unnecessary functions / lines or even blocks of code that weren't doing anything. But after noting out the framework I thought would work / be more efficient, and implimenting the ideas by cross-referencing with the previous activies, I found success!!
+
+Im proud of this assignment because it's personally a big step for me to be able to from scratch build something thats functional to the criteria. Especially within the framework of working with someone else's HTML / pre-defined classes/ID's! Makes me excited for whats to come!
+
+link: https://spencerdbrown
